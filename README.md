@@ -1,7 +1,7 @@
-<strong>GitHub</strong>
+<strong>1-GitHub</strong>
 <h1>Qu'est-ce que GitHub?</h1>
 <p>
-  Github est une entreprise de développement logiciel et de service dont le siège est situé aux États-Unis.
+  <mark>Github est une entreprise de développement logiciel et de service en ligne,</mark> dont le siège est situé aux États-Unis.
 <br> Github développe notamment la plateforme Github, l'éditeur de texte Atom ou encore le framework Electron.
 <br> Le 4 juin 2018, Microsoft annonce l’acquisition de l’entreprise pour la somme de 7,5 milliards de dollars américains 
 </p> 
@@ -10,7 +10,7 @@
   Tom Preston-Werner et Chris Wanstrath<br> Février 2008
 </p>
 
-<strong>LinkedIn</strong>
+<strong>2-LinkedIn</strong>
 <h1>Qu'est-ce que LinkedIn?</h1>
 <p>
    <mark>LinkedIn est un réseau social professionnel en ligne créé en 2002 à Mountain View (Californie).</mark> </br>
